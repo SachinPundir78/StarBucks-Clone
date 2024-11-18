@@ -48,9 +48,4 @@ Feel free to submit pull requests to improve this project.
 
 ---
 
-## 📝 License  
-This project is licensed under the **MIT License**.  
-
----
-
 **Thank you for checking out the Starbucks Clone project! Happy coding! 🎉**  
